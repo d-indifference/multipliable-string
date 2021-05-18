@@ -1,7 +1,7 @@
 {
-  "name": "multiplieble-string",
+  "name": "multipliable-string",
   "version": "1.0.0",
-  "description": "A class for creating a multiplieble strings, which you can multiply as same, as in Python",
+  "description": "A class for creating a multipliable strings, which you can multiply as same, as in Python",
   "files": [
     "index.js"
   ],
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sailor-alba/multiplieble-string.git"
+    "url": "git+https://github.com/sailor-alba/multipliable-string.git"
   },
   "keywords": [
-    "multiplieble",
+    "multipliable",
     "multiply",
     "string",
     "strings",
@@ -29,9 +29,9 @@
   "author": "sailor-alba (https://github.com/sailor-alba)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sailor-alba/multiplieble-string/issues"
+    "url": "https://github.com/sailor-alba/multipliable-string/issues"
   },
-  "homepage": "https://github.com/sailor-alba/multiplieble-string#readme",
+  "homepage": "https://github.com/sailor-alba/multipliable-string#readme",
   "devDependencies": {
     "assert": "^2.0.0",
     "eslint": "^7.26.0",

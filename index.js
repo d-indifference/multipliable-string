@@ -1,5 +1,5 @@
 /*!
- * multiplieble-string <https://github.com/sailor-alba/multiplieble-string>
+ * multipliable-string <https://github.com/sailor-alba/multipliable-string>
  *
  * Copyright (c) 2021, Sailor Alba.
  * Released under the MIT License.
@@ -10,7 +10,7 @@
 /**
  * String, which can be multiplied as same, as in Python
  */
-module.exports = class MultipliebleString extends String {
+module.exports = class MultipliableString extends String {
     constructor(value) {
         super(value);
     }
