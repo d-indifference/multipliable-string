@@ -1,6 +1,6 @@
 {
   "name": "multipliable-string",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A class for creating a multipliable strings, which you can multiply as same, as in Python",
   "files": [
     "index.js"

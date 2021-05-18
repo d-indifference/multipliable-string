@@ -19,7 +19,7 @@ const MultipliableString = require('multipliable-string');
 
 console.log(`Javascript goes b${new MultipliableString('r').multiply(30)}`); //=> Javascript goes brrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
-const myVar = new multipliableString('Test');
+const myVar = new MultipliableString('Test');
 console.log(myVar.multiply(10)); //=> TestTestTestTestTestTestTestTestTestTest
 ```
 
