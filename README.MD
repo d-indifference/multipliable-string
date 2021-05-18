@@ -1,4 +1,4 @@
-# multiplieble-string
+# multiplieble-string [![NPM version](https://img.shields.io/npm/v/multiplieble-string.svg?style=flat)](https://www.npmjs.com/package/multiplieble-string) [![NPM monthly downloads](https://img.shields.io/npm/dm/multiplieble-string.svg?style=flat)](https://npmjs.org/package/multiplieble-string) [![NPM total downloads](https://img.shields.io/npm/dt/multiplieble-string.svg?style=flat)](https://npmjs.org/package/multiplieble-string)
 
 > A class for creating a multiplieble strings, which you can multiply as same, as in Python
 
