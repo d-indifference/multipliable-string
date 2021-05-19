@@ -26,17 +26,11 @@ module.exports = class MultipliableString extends String {
                 throw new RangeError('Invalid count value');
             }
 
-            let result = '';
-
             if (count > 0) {
-                for (let i = 0; i < count; i++) {
-                    result += this.toString(); 
-                }
-
-                return result;
+                return this.repeat(count);
             }
 
-            return result;
+            return '';
         } else {
             throw new TypeError('Argument must be an integer number');
         } 
