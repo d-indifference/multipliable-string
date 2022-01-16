@@ -27,12 +27,12 @@ console.log(myVar.multiply(10)); //=> TestTestTestTestTestTestTestTestTestTest
 
 **Sailor Alba**
 
-* [GitHub Profile](https://github.com/sailor-alba)
-* [Twitter Profile](https://twitter.com/alba_sailor)
+* [GitHub Profile](https://github.com/d-indifference/)
+* [Twitter Profile](https://twitter.com/d_indifference)
 
 ### License
 
-Copyright © 2021, [Sailor Alba](https://twitter.com/alba_sailor).
+Copyright © 2021, [Demon of indifference](https://twitter.com/d_indifference).
 Released under the [MIT License](LICENSE).
 
 ***

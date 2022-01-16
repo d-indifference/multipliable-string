@@ -1,7 +1,7 @@
 /*!
- * multipliable-string <https://github.com/sailor-alba/multipliable-string>
+ * multipliable-string <https://github.com/d-indifference/multipliable-string>
  *
- * Copyright (c) 2021, Sailor Alba.
+ * Copyright (c) 2021, Demon of indifference.
  * Released under the MIT License.
  */
 
@@ -22,7 +22,7 @@ module.exports = class MultipliableString extends String {
      */
     multiply(count) {
         if (typeof count === 'number' && (isFinite(count) && Math.floor(count) === count)) {
-            if (count == Infinity || count == -Infinity) {
+            if (count === Infinity || count === -Infinity) {
                 throw new RangeError('Invalid count value');
             }
 
@@ -33,6 +33,6 @@ module.exports = class MultipliableString extends String {
             return '';
         } else {
             throw new TypeError('Argument must be an integer number');
-        } 
+        }
     }
 };

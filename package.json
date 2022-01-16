@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sailor-alba/multipliable-string.git"
+    "url": "https://github.com/d-indifference/multipliable-string"
   },
   "keywords": [
     "multipliable",
@@ -29,9 +29,9 @@
   "author": "sailor-alba (https://github.com/sailor-alba)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sailor-alba/multipliable-string/issues"
+    "url": "https://github.com/d-indifference/multipliable-string/issues"
   },
-  "homepage": "https://github.com/sailor-alba/multipliable-string#readme",
+  "homepage": "https://github.com/d-indifference/multipliable-string#readme",
   "devDependencies": {
     "assert": "^2.0.0",
     "eslint": "^7.26.0",
