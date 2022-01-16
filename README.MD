@@ -25,7 +25,7 @@ console.log(myVar.multiply(10)); //=> TestTestTestTestTestTestTestTestTestTest
 
 ### Author
 
-**Sailor Alba**
+**Demon of indifference**
 
 * [GitHub Profile](https://github.com/d-indifference/)
 * [Twitter Profile](https://twitter.com/d_indifference)
